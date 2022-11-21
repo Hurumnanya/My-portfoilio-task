@@ -1,0 +1,117 @@
+body{
+    margin: 10%;
+}
+
+.option{
+    background: linear-gradient(to  top right,
+     skyblue,pink 100%
+    );
+
+    padding-top: 1px;
+}
+
+.option_2{
+    margin: 30px;
+    background-color: rgb(222, 222, 241);
+    border-top-right-radius:15px;
+    border-top-left-radius: 15px;
+    
+}
+
+.header{
+    display: flex;
+    margin-bottom: 50px;
+    padding-top: 20px;
+}
+
+.img_1{
+    padding-left: 50px;
+    height: 50px;
+    width: 100px;
+}
+
+.nav_bars{
+    margin-left: 50%;
+
+}
+
+.nav_bar li{
+    list-style: none;
+    float: left;
+    padding-left: 5px;
+} 
+
+.header button{
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+main{
+    margin-left: 150px;
+}
+
+.main_top{
+    display: flex;
+    gap: 90px ;
+    margin-bottom: 60px;
+}
+
+.img_2{
+    height: 250px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.main_1{
+    margin-top: 50px;
+}
+
+.main_bottom{
+    display: flex;
+    gap: 50px ;
+    padding-bottom: 80px;
+}
+
+.career_1{
+    border: 1px solid rgb(146, 146, 179);
+    border-radius: 5px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 0px;
+
+}
+
+.career_2{
+    border: 1px solid rgb(146, 146, 179);
+    border-radius: 5px;
+    float: left;
+    margin-right: 10px;
+    padding: 2px;
+    margin-bottom: 0px;
+    margin-top: 6px;
+}
+
+.career_3{
+    border: 1px solid rgb(146, 146, 179);
+    border-radius: 5px;
+    float: left;
+    margin-right: 10px;
+    padding: 2px;
+    margin-bottom: 0px;
+    margin-top: 6px;
+}
+
+.career_4{
+    border: 1px solid rgb(146, 146, 179);
+    border-radius: 5px;
+    float: left;
+    margin-right: 10px;
+    padding: 2px;
+    margin-bottom: 0px;
+    margin-top: 6px;
+}
